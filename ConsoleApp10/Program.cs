@@ -17,7 +17,7 @@ namespace ConsoleApp10
             }
             for (int i = 0; i < a.Length; i++)
             {
-                //fhfhfhfh
+                //fix
 
                 Console.WriteLine("Вы ввели: " + a[i]);
             }
