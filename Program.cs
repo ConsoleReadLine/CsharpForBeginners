@@ -21,13 +21,4 @@ namespace ConsoleApp10
             }
         }
     }
-
-
-
-    
-
-
-
-
-
 }
